@@ -44,9 +44,7 @@ const Experience = () => {
           <div className="absolute left-0 top-0 h-px w-0 bg-green-400 transition-all duration-500 group-hover:w-full" />
 
           <div className="flex flex-col gap-8 md:flex-row md:items-start">
-            <div className="flex h-16 w-16 shrink-0 items-center justify-center rounded-xl border border-green-500/30 bg-green-500/5 font-mono text-2xl font-bold text-green-400 transition-colors group-hover:bg-green-500/10">
-              P
-            </div>
+          
 
             <div className="min-w-0 flex-1">
               <div className="flex flex-col gap-4 sm:flex-row sm:items-start sm:justify-between">

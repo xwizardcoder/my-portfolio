@@ -45,15 +45,7 @@ const Navbar = () => {
             <span>↗</span>
           </a>
 
-          <a
-            href="tel:+918853349948"
-            className="group flex h-10 items-center gap-2 rounded-md border border-green-400 bg-green-400 px-4 font-mono text-xs font-bold text-black transition duration-300 hover:bg-green-300 hover:shadow-[0_0_20px_rgba(34,197,94,0.25)] sm:px-5"
-          >
-            <span>Hire Me</span>
-            <span className="transition-transform duration-300 group-hover:translate-x-1 group-hover:-translate-y-1">
-              ↗
-            </span>
-          </a>
+          
         </div>
       </div>
 

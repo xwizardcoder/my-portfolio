@@ -61,17 +61,7 @@ const Resume = () => {
               </div>
             </div>
 
-            <div className="mx-auto flex h-44 w-44 items-center justify-center rounded-2xl border border-green-500/20 bg-green-500/[0.03] sm:h-52 sm:w-52">
-              <div className="text-center">
-                <div className="font-mono text-6xl font-bold text-green-400">
-                  CV
-                </div>
-                <div className="mt-3 font-mono text-xs tracking-[3px] text-gray-500">
-                  PDF FILE
-                </div>
-                <div className="mx-auto mt-4 h-1 w-12 rounded-full bg-green-400" />
-              </div>
-            </div>
+           
           </div>
 
           <div className="mt-10 flex flex-wrap items-center justify-between gap-3 border-t border-green-500/10 pt-5 font-mono text-xs text-gray-500">
